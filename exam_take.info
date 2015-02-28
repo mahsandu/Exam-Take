@@ -1,2 +1,5 @@
 <?php 
 //This is Drupal 7 Module Information File. 
+name = Exam Take
+description = It will create a block which will automatically shows the related exam node summary with take link.
+core = 7x
