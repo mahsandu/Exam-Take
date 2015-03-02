@@ -1,0 +1,7 @@
+functions hook_admin_paths() {
+  $paths = array(
+    'exam_take/*/add' => TRUE,
+    'exam_take/*/add' => TRUE,
+  );
+  return $paths;
+}
